@@ -41,8 +41,8 @@ The project is configured to use **SQLite** by default, but **PostgreSQL** is al
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/MohitPaharia/clubpoint.git
+cd clubpoint
 ```
 
 ### 2. Configure the environment
